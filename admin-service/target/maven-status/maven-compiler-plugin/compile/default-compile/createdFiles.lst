@@ -1,0 +1,7 @@
+com\example\adminservice\AdminServiceApplication.class
+com\example\adminservice\service\UserServiceClient.class
+com\example\adminservice\config\AppConfig.class
+com\example\adminservice\model\Admin.class
+com\example\adminservice\repository\AdminRepository.class
+com\example\adminservice\controller\AdminController.class
+com\example\adminservice\service\AdminService.class
